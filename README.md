@@ -13,6 +13,10 @@ It is designed for **quick decision-making**, campaign optimization, and stakeho
 
 These KPIs give a high-level snapshot of campaign scale, cost, and effectiveness.
 
+---
+Dashboard Preview 
+![image alt](https://github.com/SrinjoyMisra/FUTURE_DS_02/blob/main/Fb%20Ad%20Dashboard.png)
+
 ## Dashboard Sections & Insights
 
 ### 1. Performance Trend by Day
